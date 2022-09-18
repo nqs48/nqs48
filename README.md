@@ -1,7 +1,7 @@
 <div align="rigth">
 	
 </div>
-  <img src="https://res.cloudinary.com/adev48/image/upload/v1663439827/Logos/Small_Memory_Mikael_Gustafsson_qy2i11.jpg" width="100%" height="300"> 
+  <img src="https://res.cloudinary.com/adev48/image/upload/v1663439827/Logos/Small_Memory_Mikael_Gustafsson_qy2i11.jpg" width="100%" height="270"> 
 
 
   
@@ -94,7 +94,7 @@
 
 ### :zap: Repositories
 
-<div align='center'>
+<div align="center">
 <a href="https://github.com/nqs48/LabJavaScript-Trainnig_ADev">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=LabJavaScript-Trainnig_ADev&theme=dark" />
 </a>&nbsp;
@@ -134,7 +134,7 @@
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<!-- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3> -->
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
