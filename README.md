@@ -17,8 +17,9 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/nqs48/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:nqs7548@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="mailto:nqs7548@gmail.com"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"/></a>
+
 </p>
 
 <br>
@@ -37,35 +38,61 @@
 
 <br>
 
-### Languages and Tools: 
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-
 ---
 
+<h3>🛠&nbsp;&nbsp;Languages and Tools: </h3>
 
+
+<p>
+
+
+	
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+<img  src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-3a86ff?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/Tailwind-00b4d8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  </p> 
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=green"/> <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=red"/> <img src="https://img.shields.io/badge/Springboot-white?style=for-the-badge&logo=springboot&logoColor=green"/>
+
+</p>
+
+<p align="center">
+<img  src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb"/><img src="https://img.shields.io/badge/MySQL-016FA2?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=orange"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Netlify-white?style=for-the-badge&logo=netlify"/>	
+<img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=red"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello"/> <img src="https://img.shields.io/badge/Docker-8ecae6?style=for-the-badge&logo=docker"/>	
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/visual studio code-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/IntelliJ Idea-white?style=for-the-badge&logo=intellijidea&logoColor=red"/>
+	
+</p>
+
+
+
+ 
+---
 <br>
 <br>
-<br>
-<br>
+
 
 <!--
 <details>
@@ -100,6 +127,8 @@
 </a>&nbsp;
 
 
+
+
 <a href="https://github.com/nqs48/PressHotel_ADev">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=PressHotel_ADev&theme=dark" />
 </a>&nbsp;
@@ -115,7 +144,8 @@
 </a>
 
 </div>
-
+<br>
+<br>
 
 <!--
 ### :zap: Recent Github Activity
@@ -143,7 +173,7 @@
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 
-
+<img src="https://img.shields.io/badge/Apple-20232a?style=for-the-badge&logo=apple"/>
 
 
 <!--
