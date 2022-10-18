@@ -17,7 +17,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/nqs48/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="https://portfolio-adev.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
 <a href="mailto:nqs7548@gmail.com"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"/></a>
 
 </p>
@@ -81,7 +81,11 @@
 <h3> 📥 &nbsp;&nbsp;Main Repositories:</h3>
 
 <br>
-
+<p align='center'>
+   <a href="https://github.com/nqs48/ADev-Portfolio">
+   	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=ADev-Portfolio&theme=dark" />
+   </a>
+</p>  
 <p align='center'>
 	
   <a href="https://github.com/nqs48/WhoWants_ADev">
