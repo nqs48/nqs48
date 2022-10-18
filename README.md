@@ -84,8 +84,8 @@
 
 <p align='center'>
 	
-  <a href="https://github.com/nqs48/LabJavaScript-Trainnig_ADev">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=LabJavaScript-Trainnig_ADev&theme=dark" />
+  <a href="https://github.com/nqs48/WhoWants_ADev">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=WhoWants_ADev&theme=dark" />
   </a>
   <a href="https://github.com/nqs48/PressHotel_ADev">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nqs48&repo=PressHotel_ADev&theme=dark" />
