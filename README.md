@@ -1,8 +1,9 @@
 <div align="rigth">
 	
 </div>
+<a href="https://www.nestea.tech">
   <img src="https://res.cloudinary.com/adev48/image/upload/v1663439827/Logos/Small_Memory_Mikael_Gustafsson_qy2i11.jpg" width="100%" height="270"> 
-
+</a>
 
   
 <p>
@@ -17,8 +18,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/nqs48/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://portfolio-adev.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
-<a href="mailto:nqs7548@gmail.com"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.nestea.tech"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="mailto:nqs48@hotmail.com"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"/></a>
 
 </p>
 
@@ -29,7 +30,7 @@
 <!-- ### 💻 🤓 I am engineering student-->
 <h3>🤓&nbsp;&nbsp;I'm engineering student</h3>
 
-- 🔭 I’m currently working on my Portfolio Website 
+- 🔭 I’m currently working on my [Portfolio Website](https://www.nestea.tech)
 - 🌱 I’m currently increasing my skills as a developer.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
