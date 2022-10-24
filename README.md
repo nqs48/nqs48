@@ -20,6 +20,7 @@
 
 <a href="https://www.nestea.tech"><img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
 
+<p align="left">
 <!-- ### 💻 🤓 I am engineering student-->
 <h3>🤓&nbsp;&nbsp;I'm engineering student</h3>
 
@@ -31,9 +32,9 @@
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/nqs48/)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<p align='right'>
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nqs48.nqs48"></a>
 </p>
+<a href="#"><img align='right' src="https://visitor-badge.glitch.me/badge?page_id=nqs48.nqs48"></a>
+
 <br>
 
 <p align="center">
