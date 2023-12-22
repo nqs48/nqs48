@@ -24,7 +24,7 @@
 <!-- ### 💻 🤓 I am engineering student-->
 <h3>🤓&nbsp;&nbsp;I'm engineering student</h3>
 
-- 🔭 I’m currently working on my [Portfolio Website](https://www.nestea.tech)
+- 🔭 I’m currently working on my [Portfolio Website](https://www.nestea-dev.tech)
 - 🌱 I’m currently increasing my skills as a developer.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
