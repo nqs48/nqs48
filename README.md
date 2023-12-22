@@ -57,7 +57,7 @@
 	
 </p>
 
-<a href="https://www.nestea.tech"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100"></a> 
+<a href="https://www.nestea-dev.tech"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100"></a> 
 <p align="center">
 <img  src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-3a86ff?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind-00b4d8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  </p> 
 </p>
