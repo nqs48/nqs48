@@ -12,13 +12,13 @@
 
 <br>
 <p align="center">
-<a href="https://www.nestea.tech"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
+<a href="https://www.nestea-dev.tech"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
 </p>
 <br>
 <br>
 <br>
 
-<a href="https://www.nestea.tech"><img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
+<a href="https://www.nestea-dev.tech"><img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
 
 <p align="left">
 <!-- ### 💻 🤓 I am engineering student-->
@@ -133,7 +133,7 @@
 	
 <br>
 
-<a href="https://www.nestea.tech"><img src="https://github.com/nqs48/nqs48/blob/main/wave.svg" /></a>
+<a href="https://www.nestea-dev.tech"><img src="https://github.com/nqs48/nqs48/blob/main/wave.svg" /></a>
 
 
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() -->
