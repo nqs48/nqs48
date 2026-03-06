@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-<a href="https://www.nestea-dev.tech"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
+<a href="https://portfolio-adev.netlify.app/"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
 </p>
 <br>
 <br>
@@ -24,7 +24,7 @@
 <!-- ### 💻 🤓 I am engineering student-->
 <h3>🤓&nbsp;&nbsp;I'm engineering student</h3>
 
-- 🔭 I’m currently working on my [Portfolio Website](https://www.nestea-dev.tech)
+- 🔭 I’m currently working on my [Portfolio Website](https://portfolio-adev.netlify.app/)
 - 🌱 I’m currently increasing my skills as a developer.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
