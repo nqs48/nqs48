@@ -1,4 +1,4 @@
-<a href="https://www.nestea.tech">
+<a href="https://www.nesst-tech.online">
   <img src="https://res.cloudinary.com/adev48/image/upload/v1663439827/Logos/Small_Memory_Mikael_Gustafsson_qy2i11.jpg" width="100%" height="270"> 
 </a>
 
@@ -12,19 +12,19 @@
 
 <br>
 <p align="center">
-<a href="https://portfolio-adev.netlify.app/"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
+<a href="https://www.nesst-tech.online"><img src="https://img.shields.io/badge/Click to my Portfolio-ef233c?style=for-the-badge"/></a>
 </p>
 <br>
 <br>
 <br>
 
-<a href="https://www.nestea-dev.tech"><img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
+<a href="https://www.nesst-tech.online"><img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
 
 <p align="left">
 <!-- ### 💻 🤓 I am engineering student-->
 <h3>🤓&nbsp;&nbsp;I'm engineering student</h3>
 
-- 🔭 I’m currently working on my [Portfolio Website](https://portfolio-adev.netlify.app/)
+- 🔭 I’m currently working on my [Portfolio Website](https://www.nesst-tech.online)
 - 🌱 I’m currently increasing my skills as a developer.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
@@ -40,8 +40,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/nqs48/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send/?phone=573102095353&text=Hola+Nestea%2C+vi+tu+perfil+de+github+y+me+encanto+el+trabajo+que+haces%21%21&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/what's app-2d572c?style=for-the-badge&logo=whatsapp" alt="whats app" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nestea_turner/"><img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram" alt="Instagram"/>&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send/?phone=573102095353&text=Hola+Nesst%2C+vi+tu+perfil+de+github+y+me+encanto+el+trabajo+que+haces%21%21&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/what's app-2d572c?style=for-the-badge&logo=whatsapp" alt="whats app" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nesst_turner/"><img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram" alt="Instagram"/>&nbsp;&nbsp;
 <a href="mailto:nqs48@hotmail.com"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/></a>
 </a>
 </p>
@@ -57,7 +57,7 @@
 	
 </p>
 
-<a href="https://www.nestea-dev.tech"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100"></a> 
+<a href="https://www.nesst-tech.online"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100"></a> 
 <p align="center">
 <img  src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-3a86ff?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind-00b4d8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  </p> 
 </p>
@@ -133,7 +133,7 @@
 	
 <br>
 
-<a href="https://www.nestea-dev.tech"><img src="https://github.com/nqs48/nqs48/blob/main/wave.svg" /></a>
+<a href="https://www.nesst-tech.online"><img src="https://github.com/nqs48/nqs48/blob/main/wave.svg" /></a>
 
 
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() -->
