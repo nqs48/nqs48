@@ -1,0 +1,46 @@
+name: Avatar VIP
+
+# Regenera el avatar con marco dorado a partir de la foto de perfil de GitHub
+# y lo publica en la rama "assets" (solo cuando la foto cambió).
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/avatar-vip.sh
+      - .github/workflows/avatar-vip.yml
+
+permissions:
+  contents: write
+
+concurrency: avatar-vip
+
+jobs:
+  avatar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar avatar
+        run: bash scripts/avatar-vip.sh "${{ github.repository_owner }}" "$RUNNER_TEMP/avatar-vip.svg"
+
+      - name: Publicar en la rama assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth=1 origin assets; then
+            git checkout -B assets FETCH_HEAD
+          else
+            git checkout --orphan assets
+            git rm -rf --quiet .
+          fi
+          cp "$RUNNER_TEMP/avatar-vip.svg" avatar-vip.svg
+          git add avatar-vip.svg
+          if git diff --cached --quiet; then
+            echo "La foto no cambió; no hay nada que publicar."
+            exit 0
+          fi
+          git commit -m "chore: actualizar avatar VIP"
+          git push origin assets
